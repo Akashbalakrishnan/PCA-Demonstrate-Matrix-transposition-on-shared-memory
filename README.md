@@ -331,4 +331,6 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
                     0.00%     240ns         1     240ns     240ns     240ns  cuDeviceGetUuid
 root@MidPC:/home/student/Desktop# 106
 ```
+![image](https://github.com/Akashbalakrishnan/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/119291768/8c8d52af-7d7b-4b27-9cb6-2f09a23f0c2d)
+
 ## Result:
