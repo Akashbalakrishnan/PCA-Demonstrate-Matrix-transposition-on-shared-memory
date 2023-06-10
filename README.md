@@ -293,7 +293,7 @@ int main(int argc, char **argv)
     return EXIT_SUCCESS;
 }
 ```
-Output:
+## Output:
 ```
 root@MidPC:/home/student/Desktop# nvcc test.cu
 root@MidPC:/home/student/Desktop# ./a.out
