@@ -334,3 +334,4 @@ root@MidPC:/home/student/Desktop# 106
 ![image](https://github.com/Akashbalakrishnan/PCA-Demonstrate-Matrix-transposition-on-shared-memory/assets/119291768/8c8d52af-7d7b-4b27-9cb6-2f09a23f0c2d)
 
 ## Result:
+The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
