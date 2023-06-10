@@ -19,9 +19,11 @@ To demonstrate the Matrix transposition on shared memory with grid (1,1) block (
 ### Step 6 : Save and execute the program.
 
 ## Program :
-
+```
 DEVELOPED BY : Akash.B
+
 REGISTER NO : 212222040004
+```
 ```
 #include "common.h"
 #include <cuda_runtime.h>
